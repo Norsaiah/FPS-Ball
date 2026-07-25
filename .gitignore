@@ -2,8 +2,8 @@
 *.exe
 
 # Raylib
-lib/librarylib.a
-include/raylib.h
+lib/*.a
+include/*.h
 
 # VS Code
 .vscode/
